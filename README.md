@@ -13,11 +13,9 @@ Accepted at Pattern Recognition.
 
 🚧 This repository is under construction.
 
-The paper and code will be released soon.
+📄 **Paper:** Coming Soon
 
-
-
-
+🚀 **Code:** Available in this repository.
 
 
 # 📝 Citation
